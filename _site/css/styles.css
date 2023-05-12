@@ -76,8 +76,8 @@ h2 {
 	font-size: 1.6rem;
 	line-height: 2.625rem;
 	letter-spacing: -0.4px;
-  margin-top: 1rem;
-  margin-bottom: 0rem;
+  margin-top: .75rem;
+  margin-bottom: -0.5rem;
 }
 
 h3 {
@@ -86,6 +86,8 @@ h3 {
 	font-size: 1.4rem;
 	line-height: 2.625rem;
 	letter-spacing: -0.4px;
+  margin-top: .75rem;
+  margin-bottom: -0.5rem;
 }
 
 h4 {
@@ -110,7 +112,12 @@ h4 {
 	line-height: 1.5rem;
 }
 
-p {
+p, ul {
+  margin-bottom: 0.75rem;
+  margin-top: 0.75rem;
+}
+
+li {
   margin-bottom: 0.25rem;
   margin-top: 0.25rem;
 }
@@ -632,7 +639,15 @@ thead {
 /* X-small screen width */
 @media only screen and (max-width: 576px) {
   h2 {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
+    line-height: 1.8rem;
+    margin-bottom: -0.25rem;
+  }
+  
+  h3 {
+    font-size: 1.25rem;
+    line-height: 1.8rem;
+    margin-bottom: -0.25rem;
   }
 
   p, li {
