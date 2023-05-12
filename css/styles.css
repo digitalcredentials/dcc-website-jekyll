@@ -30,8 +30,8 @@ Table Of Contents:
   /**************************/
   /*         Constant       */
   /**************************/
-  --nav-height-full: 100px;
-  --nav-height-min: 85px;
+  --nav-height-full: 99px;
+  --nav-height-min: 83.25px;
 }
 
 
@@ -165,7 +165,6 @@ th {
 .navbar {
 	border-bottom: 1px solid var(--off-white);
 	background-color: var(--white);
-  height: var(--nav-height-full);
 }
 
 a.nav-link, a.dropdown-item {
@@ -562,10 +561,6 @@ thead {
 
   /* Navigation */
 
-  .navbar {
-    height: var(--nav-height-min);
-  }
-  
   a.nav-link, a.dropdown-item {
     font-size: 1.1rem;
   }
