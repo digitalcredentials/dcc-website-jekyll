@@ -107,7 +107,7 @@ h4 {
 	line-height: 1.75rem;
 }
 
-.p-small {
+.p-footer {
 	font-size: 0.875rem;
 	line-height: 1.5rem;
 }
@@ -407,6 +407,10 @@ ul.bullets-special {
   font-size: 1.3rem;
 }
 
+.team-grid p {
+  font-size: 1.1rem;
+}
+
 /* Table style */
 .table {
   margin-top: 2rem;
@@ -471,7 +475,7 @@ thead {
 	background-color: var(--gray);
 }
 
-.footer .p-small{
+.footer .p-footer{
 	color:var(--off-white);
 }
 
@@ -673,6 +677,11 @@ thead {
   }
 
   /* Team member title */
+  .team-grid p {
+    font-size: 0.9rem;
+    line-height: 1.4rem;
+  }
+
   .team-grid h3, h4 {
     font-size: 1.2rem;
   }
@@ -724,7 +733,7 @@ thead {
     padding-bottom: 0;
   }
 
-  .footer .p-small {
+  .footer .p-footer {
     font-size: 0.8rem;
   }
 
