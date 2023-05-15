@@ -125,7 +125,6 @@ li {
 th {
   position:sticky;
   top: 90px;
-  z-index: 1;
   background-color: var(--white);
 }
 
@@ -777,6 +776,29 @@ table td:nth-child(1){
 }
 /* End of x-small screen width */
 
+/* X-x-small screen width */
+@media only screen and (max-width: 390px) {
+  td {
+    font-size: 0.75rem;
+  }
+
+  th {
+    font-size: 0.7rem;
+  }
+}
+/* End of x-x-small screen width */
+
+/* X-x-x-small screen width */
+@media only screen and (max-width: 350px) {
+  td {
+    font-size: 0.65rem;
+  }
+
+  th {
+    font-size: 0.65rem;
+  }
+}
+/* End of x-x-x-small screen width */
 
 /* Large and X-Large */
 @media (min-width: 992px) {
