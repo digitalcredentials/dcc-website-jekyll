@@ -470,11 +470,15 @@ table td:nth-child(1){
   color: var(--white);
 }
 
-/* Limited-width call to action w/ no title or bgd color */
-.call-to-action.mini {
-  background-color: var(--white);
-  padding-top: 4rem;
-  padding-bottom: 2.5rem;
+/* Call to action margins for homepage */
+.call-to-action.homepage {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* Call to action margins for sitting at the bottom of a content page */
+.call-to-action.content-page-bottom {
+  margin-bottom: -1.5rem;
 }
 
 
@@ -554,7 +558,7 @@ table td:nth-child(1){
   }
   
   .call-to-action {
-    padding-top: 3.5rem;
+    padding-top: 3rem;
     padding-bottom: 3rem;
   }
   
@@ -729,7 +733,7 @@ table td:nth-child(1){
   /* Call to action block */
   .call-to-action {
     padding-top: 2rem;
-    padding-bottom: 2.5rem;
+    padding-bottom: 2rem;
   }
 
   .call-to-action .btn-solid-lg {
