@@ -22,7 +22,7 @@ Building on earlier efforts by the participating institutions, we are designing 
 </div>
 <div class="col-lg-7 order-first order-lg-0" markdown="1">
 
-![My image Name](/images/photo-1.jpg)
+![Photo of person wearing headphones using a laptop](/images/photo-1.jpg)
 
 </div>
 </div>
@@ -31,7 +31,7 @@ Building on earlier efforts by the participating institutions, we are designing 
 <div class="row mt-3">
 <div class="col-lg-7" markdown="1">
 
-![My image Name](/images/photo-2.jpg)
+![Photo of an institutional building](/images/photo-2.jpg)
 
 </div>
 <div class="col-lg-5"  markdown="1">
