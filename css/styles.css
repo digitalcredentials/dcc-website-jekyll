@@ -399,8 +399,13 @@ ul.bullets-special {
   row-gap: 15px;
 }
 
-.team-grid h3, h4 {
+.team-name {
+  font-weight: 700;
+}
+
+.team-name, .team-title {
   font-size: 1.2rem;
+	line-height: 2.2rem;
 }
 
 .team-grid p {
@@ -724,7 +729,7 @@ table td:nth-child(1){
     line-height: 1.4rem;
   }
 
-  .team-grid h3, h4 {
+  .team-name, .team-title {
     font-size: 1.1rem;
   }
   
