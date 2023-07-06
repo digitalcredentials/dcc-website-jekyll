@@ -5,6 +5,8 @@ pages:
     url: /who-we-are
   - page: Resources
     url: /resources
+  - page: Blog
+    url: /blog
   - page: Get Involved
     url: /get-involved
     subpages:
