@@ -312,7 +312,7 @@ a.dropdown-item:hover {
 }
 
 .home-header p {
-	font-size: 1.5rem;
+	font-size: 1.3rem;
 	line-height: 2.125rem;
 	color: var(--white);
   text-align: right;
@@ -657,7 +657,7 @@ p.call-to-action-mini {
 
   /* Homepage header section */
   .home-header p {
-    font-size: 1.19rem;
+    font-size: 1.2rem;
   }
 
   .home-header .content {
@@ -748,7 +748,7 @@ p.call-to-action-mini {
   }
 
   .home-header p {
-    font-size: 1rem;
+    font-size: 1.1rem;
   }
 
   /* Mid-page quote block on home */
