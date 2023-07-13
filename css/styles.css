@@ -293,7 +293,7 @@ a.dropdown-item:hover {
   overflow-x: hidden;
   /* margin-top: -10rem; */
   /* margin-top: 10rem; */
-	background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('../images/photo-3.jpg') center center no-repeat !important;
+	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/photo-3.jpg') 60% 60% no-repeat !important;
 }
 
 .home-header a {
